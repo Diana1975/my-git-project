@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "olM4rz6t7WOc3UARZvsrmkqhLxvkASQ/ka+zrOzjkJ7zhz6BUp3tO0NkY8DWvfMlL1LLGhi/CNtJLHfYl3lLkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\Bankomatas\\Bankomatas\\Bankomatas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
